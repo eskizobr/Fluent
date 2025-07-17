@@ -10,10 +10,10 @@
 
 ## 🔌 Installation
 
-You can load Fluent through a GitHub Release:
+You can load Fluent:
 
 ```lua
-local Fluent = loadstring(game:HttpGet("https://github.com/eskizobr/Fluent/blob/main/main.lua"))()
+local Fluent = loadstring(game:HttpGet("https://github.com/eskizobr/Fluent/blob/main/fluent.lua"))()
 ```
 <br/>
 
